@@ -1,0 +1,968 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"framework"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"btn-",
+				"btn-normal"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"resu",
+				"resultTime"
+			],
+			[
+				"date",
+				"dateIndex"
+			],
+			[
+				"race",
+				"raceData"
+			],
+			[
+				"pare",
+				"parseInt〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"athe",
+				"athleteFlag"
+			],
+			[
+				"guess",
+				"guessFlag"
+			],
+			[
+				"ath",
+				"athleteFlag"
+			],
+			[
+				"coin",
+				"coinFlag"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"err",
+				"errorMsg"
+			],
+			[
+				"gue",
+				"guessNum"
+			],
+			[
+				"ra",
+				"race_id"
+			],
+			[
+				"num",
+				"numOperation"
+			],
+			[
+				"M",
+				"Math.tan()	Math"
+			],
+			[
+				"data",
+				"dateHtml〔variable〕"
+			],
+			[
+				"touch",
+				"touchend	(rankList.html)"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"app",
+				"appendTo〔function〕"
+			],
+			[
+				"meta",
+				"metalData"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"parent〔function〕"
+			],
+			[
+				"star",
+				"startX"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"rem",
+				"removeClass('visibility"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"item",
+				"itemLength"
+			],
+			[
+				"ite",
+				"itemLength"
+			],
+			[
+				"list",
+				"listList"
+			],
+			[
+				"start",
+				"start"
+			],
+			[
+				"lis",
+				"listList"
+			],
+			[
+				"sc",
+				"scrollStep"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"so",
+				"scrollY"
+			],
+			[
+				"or",
+				"originalScrollY"
+			],
+			[
+				"min",
+				"minifyCss"
+			],
+			[
+				"scr",
+				"javascripts/"
+			],
+			[
+				"ds",
+				"dist	(gulpfile.js)"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"to",
+				"toFixed〔function〕"
+			],
+			[
+				"spee",
+				"speedShow"
+			],
+			[
+				"li",
+				"limitLength"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"run",
+				"runTime〔variable〕"
+			],
+			[
+				"pl",
+				"playing"
+			],
+			[
+				"s",
+				"state〔variable〕"
+			],
+			[
+				"dis",
+				"display	(init.scss)"
+			],
+			[
+				"parst",
+				"parseInt(string, radix)	Window"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"lo",
+				"location	(Drag.js)"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"stop",
+				"stopPropagation()	Event"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"vis",
+				"visibility	(index.html)"
+			],
+			[
+				"scroll",
+				"scrollY"
+			],
+			[
+				"st",
+				"startCoordinate"
+			],
+			[
+				"cha",
+				"change	Event"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"bgc",
+				"bgc	background-color"
+			],
+			[
+				"ta",
+				"tab	(tab.js)"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"images",
+				"images/"
+			],
+			[
+				"en",
+				"env_flag"
+			],
+			[
+				"sign",
+				"signConfig"
+			],
+			[
+				"_",
+				"_uid	(app.js)"
+			],
+			[
+				"per",
+				"personConfig	(getParam.js)"
+			],
+			[
+				"get",
+				"getSign"
+			],
+			[
+				"perso",
+				"personConfig"
+			],
+			[
+				"pars",
+				"parseInt〔function〕"
+			],
+			[
+				"pero",
+				"personConfig"
+			],
+			[
+				"z",
+				"zepto.min.js"
+			],
+			[
+				"top",
+				"topData"
+			],
+			[
+				"pla",
+				"playAgain"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"G",
+				"Game"
+			],
+			[
+				"nat",
+				"nationData"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ssc",
+				"scripts	(gulpfile.js)"
+			],
+			[
+				"ove",
+				"overTips"
+			],
+			[
+				"ini",
+				"initMetalArea"
+			],
+			[
+				"in",
+				"initCoin"
+			],
+			[
+				"bg",
+				"background	(reset.scss)"
+			],
+			[
+				"bgz",
+				"bgz	background-size"
+			],
+			[
+				"nation",
+				"nationName	(init.js)"
+			],
+			[
+				"rs",
+				"rs_code"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"gu",
+				"guess_country1"
+			],
+			[
+				"v",
+				"vconsole.min.js"
+			],
+			[
+				"init",
+				"initMetalArea"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"blo",
+				"bold"
+			],
+			[
+				"config",
+				"configs	(configs.js)"
+			],
+			[
+				"a",
+				"ajax〔function〕"
+			],
+			[
+				"che",
+				"checkResult"
+			],
+			[
+				"confi",
+				"configs"
+			],
+			[
+				"getS",
+				"getString	(getParam.js)"
+			],
+			[
+				"ge",
+				"getAll	(configs.js)"
+			],
+			[
+				"Err",
+				"ErrorMsg"
+			],
+			[
+				"do",
+				"domain	Document"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"len",
+				"length	String"
+			],
+			[
+				"rule",
+				"rules"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"off",
+				"offsetHeight"
+			],
+			[
+				"getElements",
+				"getElementsByClassName"
+			],
+			[
+				"getEl",
+				"getElementsByClassName"
+			],
+			[
+				"inde",
+				"indexOf(searchElement)	Array"
+			],
+			[
+				"getE",
+				"getElementsByClassName('nation"
+			],
+			[
+				"par",
+				"parentNode	Node"
+			],
+			[
+				"index",
+				"indexOf(searchElement)	Array"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName(names)	Element"
+			],
+			[
+				"na",
+				"nationCoordinate"
+			],
+			[
+				"he",
+				"height	Style CSS"
+			],
+			[
+				"coor",
+				"coordinate2"
+			],
+			[
+				"coo",
+				"coordinate2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"console.log(\"test\");",
+			"ls ..",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ye/.config/sublime-text-3/Packages/User/SVN.errors.log",
+		"/home/ye/intern/olympic game/run game/dist/js/game.js",
+		"/tmp/fz3temp-1/game.min.js",
+		"/home/ye/code/SUI/index.html",
+		"/home/ye/internCode/olympic2016/DailyMetal/scss/index.scss",
+		"/home/ye/internCode/olympic2016/DailyMetal/index.html",
+		"/home/ye/internCode/olympic2016/DailyMetal/javascripts/tab.js",
+		"/tmp/fz3temp-1/game.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/dist/js/game.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/javascripts/init.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/javascripts/configs.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/DailyMetal",
+		"/home/ye/intern/olympic game/index.html",
+		"/home/ye/internCode/olympic2016/DailyMetal/javascripts/Operation.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/rankList.html",
+		"/home/ye/internCode/olympic2016/DailyMetal/gulpfile.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/javascripts/getSign.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/dist/js/index.min.js",
+		"/home/ye/internCode/olympic2016/DailyMetal/framework/app/getParam.js",
+		"/home/ye/internCode/olympic2016/index.html",
+		"/home/ye/intern/olympic game/run game/javascripts/GameBtn.js",
+		"/home/ye/intern/olympic game/metalRank/javascripts/getParam.js",
+		"/home/ye/intern/olympic game/metalRank/javascripts/init.js",
+		"/home/ye/intern/olympic game/metalRank/javascripts/Drag.js",
+		"/home/ye/intern/olympic game/metalRank/scss/reset.scss",
+		"/home/ye/intern/olympic game/metalRank/src/js/index.js",
+		"/home/ye/intern/olympic game/metalRank/index.html",
+		"/home/ye/intern/olympic game/metalRank/gulpfile.js",
+		"/home/ye/intern/olympic game/metalRank/src/js/game.js",
+		"/home/ye/intern/olympic game/metalRank/dist/js/game.min.js",
+		"/home/ye/intern/olympic game/run game/gulpfile.js",
+		"/home/ye/intern/olympic game/run game/javascripts/ReadyScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/Asset.js",
+		"/home/ye/intern/olympic game/run game/index.html",
+		"/home/ye/intern/olympic game/run game/scss/init.scss",
+		"/home/ye/intern/olympic game/metalRank/javascripts/configs.js",
+		"/home/ye/intern/olympic game/run game/scss/init.css",
+		"/home/ye/internCode/olympic2016/metalRank/dist/css/reset.min.css",
+		"/home/ye/internCode/olympic2016/runGame/dist/css/index.min.css",
+		"/home/ye/internCode/olympic2016/metalRank/src/css/reset.css",
+		"/home/ye/internCode/olympic2016/metalRank/dist/css/index.css",
+		"/home/ye/intern/olympic game/run game/minCss/index.css",
+		"/tmp/fz3temp-1/index.js",
+		"/home/ye/intern/olympic game/run game/javascripts/Tips.js",
+		"/home/ye/intern/olympic game/run game/javascripts/RuleScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/RenewScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/PauseScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/OverScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/GradeScene.js",
+		"/home/ye/intern/olympic game/run game/javascripts/EnterScene.js",
+		"/tmp/fz3temp-1/olyRequest.js",
+		"/home/ye/intern/olympic game/run game/framework/app/zjnative.js",
+		"/home/ye/intern/olympic game/DailyMetal/scss/index.scss",
+		"/home/ye/intern/olympic game/DailyMetal/javascripts/tab.js",
+		"/home/ye/intern/olympic game/DailyMetal/dist/js/game.js",
+		"/home/ye/intern/olympic game/DailyMetal/index.html",
+		"/tmp/fz3temp-1/zjnative.js",
+		"/home/ye/intern/olympic game/DailyMetal/test/test.html",
+		"/home/ye/桌面/untitled.html",
+		"/home/ye/桌面/test.html",
+		"/home/ye/intern/olympic game/DailyMetal/test/demo.html",
+		"/home/ye/intern/olympic game/DailyMetal/framework/mui/mui.picker.min.js",
+		"/home/ye/intern/olympic game/DailyMetal/每日奖牌竞猜切图/每日奖牌切图/每日奖牌竞猜效果图.png",
+		"/home/ye/intern/olympic game/DailyMetal/dist/css/index.css",
+		"/home/ye/intern/olympic game/DailyMetal/gulpfile.js",
+		"/home/ye/code/test/201607261504.js",
+		"/home/ye/intern/olympic game/gameList.html",
+		"/home/ye/intern/olympic game/metalRank/framework/app.js",
+		"/home/ye/code/angularjs/bookstore/gulpfile.js",
+		"/home/ye/code/angularjs/bookstore/test.js",
+		"/home/ye/intern/olympic game/metalRank/gameList.html",
+		"/home/ye/code/angularjs/bookstore/index.html",
+		"/home/ye/intern/olympic game/metalRank/framework/app/zjnative.js",
+		"/home/ye/intern/olympic game/game-list/index.html",
+		"/home/ye/intern/olympic game/metalRank/test.html",
+		"/home/ye/intern/olympic game/metalRank/test/test.js",
+		"/home/ye/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ye/intern/olympic game/metalRank/dist/js/index.min.js",
+		"/home/ye/intern/olympic game/metalRank/gulpfile.js~",
+		"/home/ye/code/angularjs/bookStore/dist/src-concated/js/BookStore.js",
+		"/home/ye/code/angularjs/bookStore/src/js/app.js",
+		"/home/ye/code/angularjs/bookStore/Gruntfile.js",
+		"/home/ye/code/angularjs/bookStore/src/index.html",
+		"/home/ye/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ye/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ye/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ye/intern/olympic game/metalRank/package.json",
+		"/home/ye/intern/olympic game/metalRank/Drag.js",
+		"/home/ye/intern/olympic game/run game/javascripts/Person.js",
+		"/home/ye/intern/olympic game/run game/dist/js/index.js",
+		"/home/ye/intern/olympic game/run game/javascripts/game.js",
+		"/home/ye/intern/olympic game/run game/javascripts/background.js",
+		"/home/ye/intern/olympic game/run game/Hilo/examples/Background.html",
+		"/home/ye/intern/olympic game/run game/dist/js/npm.js",
+		"/home/ye/code/node/ChatRoom/public/javascripts/base64.js",
+		"/home/ye/code/node/ChatRoom/public/javascripts/chat.js",
+		"/home/ye/code/node/ChatRoom/views/index.html",
+		"/home/ye/code/node/ChatRoom/app.js",
+		"/home/ye/code/node/ChatRoom/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/json3/coverage/lcov-report/lib/json3.js.html",
+		"/home/ye/code/node/ChatRoom/node_modules/jade/lib/runtime.js",
+		"/home/ye/code/node/ChatRoom/node_modules/jade/runtime.js",
+		"/home/ye/code/node/ChatRoom/node_modules/jade/jade.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/send/lib/utils.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/session/memory.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/node_modules/qs/test/browser/mocha.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/staticCache.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/static.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/session.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/methodOverride.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/limit.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/json.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/directory.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/csrf.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/basicAuth.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/middleware/cookieSession.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/utils.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/proto.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib-cov/patch.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/node_modules/connect/lib/utils.js",
+		"/home/ye/code/node/ChatRoom/node_modules/express/lib/utils.js",
+		"/home/ye/code/node/ChatRoom/public/stylesheets/chat.css",
+		"/home/ye/code/angularjs/Chat/package.json",
+		"/home/ye/www/BookStore/src/tpls/addBookForm.html",
+		"/home/ye/www/BookStore/src/tpls/bookDetail.html",
+		"/home/ye/www/BookStore/src/tpls/loginForm.html",
+		"/home/ye/www/BookStore/src/tpls/home.html",
+		"/home/ye/www/BookStore/src/js/app.js",
+		"/home/ye/www/BookStore/src/index.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gameOver",
+			"console.",
+			"console",
+			"待统计",
+			"listclassname",
+			"dateIndex",
+			"runTime",
+			"GradeTime",
+			"rank",
+			"coinFlag",
+			"guess-detail-item active",
+			"get-metal-list",
+			"-webkit-transform: translateZ",
+			"-webkit-transform-origin: center center -90px;",
+			");\n",
+			"readySence",
+			"});\n",
+			"env_flag",
+			"runTime",
+			"limitLength",
+			"ticker",
+			"runTime",
+			"  ",
+			"    ",
+			"\n",
+			"  ",
+			"    ",
+			"	",
+			";  ",
+			"\n",
+			"rank",
+			" ",
+			"\n",
+			"zjnative",
+			"ico",
+			"console.log",
+			"rs_code",
+			"消",
+			"getTrueCountry",
+			"replyShare",
+			"10",
+			"re_code",
+			"分享",
+			"console.log",
+			"console",
+			"}\n",
+			"rotateX",
+			"transform: translateZ(90px)",
+			"transform: translateZ(90px) rotateX(0deg);",
+			"\n",
+			";",
+			"\n",
+			"rotateX",
+			"成绩",
+			"configs",
+			"time",
+			"host",
+			"app_Grade_sprite",
+			"nationdata",
+			"nextMove",
+			"？",
+			"?",
+			"feedBack-btn",
+			"nation-item",
+			"结果",
+			"gam-item",
+			"alert",
+			"p",
+			"inner",
+			"png\"",
+			"md5",
+			" height=\"110\" width=\"120\"",
+			"x",
+			".",
+			"attr",
+			"Ctrl+Alt+h",
+			"ctrl+alt+h",
+			"tmpl",
+			"html",
+			"entersce",
+			"refreshTime",
+			"cut",
+			"flag",
+			"refreshTime",
+			"gameReady",
+			"totalClick",
+			"baseBtn",
+			"1000",
+			"continueBtn",
+			"runTime",
+			"gameread",
+			"time",
+			"id: 'flag",
+			"id",
+			"4",
+			"gamePause",
+			"renew",
+			");\n",
+			"flag",
+			"readys",
+			"read",
+			"gamePause",
+			"click",
+			"person",
+			"clickNum",
+			"initPersion",
+			"background",
+			"touch",
+			"startBtn",
+			"Stage",
+			"initSence",
+			"text",
+			"gameReadySence",
+			"renew",
+			"gameCutDown",
+			"tween",
+			"lint",
+			"is",
+			"isF",
+			"renderType",
+			"&gt;",
+			"&lt;",
+			"&gt; ",
+			"&amp;",
+			"<br>",
+			"</p>",
+			"<p>",
+			"receiveIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sm.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/test/201607261504.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
